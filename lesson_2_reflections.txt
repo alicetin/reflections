@@ -1,0 +1,3 @@
+# Thoughts and reflections for Lesson 2
+
+Need to create a git repo and init it to start tracking file changes.
